@@ -9,3 +9,8 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+vault_content
+*.sh
+*.lnk
+*symlink*
+link*
