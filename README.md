@@ -1,5 +1,7 @@
 # nnvault
 
+# https://rudenkobogdan.github.io/nnvault
+
 **Neural Networks Vault** — my personal digital garden dedicated to the theory and inner workings of neural networks.
 
 Built with [Quartz v4](https://quartz.jzhao.xyz/) and published on GitHub Pages.
