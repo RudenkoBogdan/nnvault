@@ -1,17 +1,32 @@
-# Quartz v4
+# nnvault
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+# https://rudenkobogdan.github.io/nnvault
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+**Neural Networks Vault** — my personal digital garden dedicated to the theory and inner workings of neural networks.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+Built with [Quartz v4](https://quartz.jzhao.xyz/) and published on GitHub Pages.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+---
 
-## Sponsors
+### About the Project
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+This is a living knowledge base where I document my deep dive into neural networks. It contains:
+
+- Mathematical foundations and derivations (backpropagation, gradients, optimizers, etc.)
+- Low-level implementations from scratch (pure NumPy and Python)
+- Insights from research papers, experiments, and Kaggle competitions
+- Interconnected concepts visualized through an interactive graph
+
+The goal is to truly understand **what happens under the hood** of modern deep learning — not just use high-level frameworks.
+
+---
+
+### Features
+
+- Interactive **Graph View** showing connections between concepts
+- Full-text search across the entire garden
+- Beautiful, minimal, and responsive design
+- Dark / Light / Reader modes
+- Continuously updated as I learn and experiment
+
+---
