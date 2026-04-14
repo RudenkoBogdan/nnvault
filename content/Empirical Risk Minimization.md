@@ -5,6 +5,8 @@ project: "[[Neural Networks]]"
 publish: true
 ---
 
+
+
 [[Empirical Risk Minimization|Empirical risk minimization]] (ERM) is the task of minimizing the objective function $f(w)$, the average [[Loss Function|loss]] over a finite dataset (hence "empirical").
 
 It proceeds by adjusting network weights to find:
