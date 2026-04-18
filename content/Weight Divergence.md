@@ -5,7 +5,7 @@ project: "[[Neural Networks]]"
 publish: true
 ---
 
-[[Weight Divergence]] is unbounded growth of network parameters during empirical risk minimization, part of [[Generalization Error]].
+[[Weight Divergence]] is unbounded growth of network parameters during [[Empirical Risk Minimization|empirical risk minimization]], part of [[Generalization Error]].
 
 Occurs when target function lies outside the closure of representable functions.
 
