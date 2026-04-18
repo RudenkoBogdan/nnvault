@@ -4,7 +4,7 @@ tags:
 project: "[[Neural Networks]]"
 publish: true
 ---
-The simplest optimizer:
+The simplest [[Optimizer|optimizer]]:
 
 $$
 \theta_{t+1}=\theta_{t}-\eta \nabla_{\theta}\mathcal{L}(\theta_{t})
