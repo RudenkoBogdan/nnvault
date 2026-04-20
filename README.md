@@ -1,4 +1,4 @@
-# nnvault
+# NNvault
 
 # https://rudenkobogdan.github.io/nnvault
 
